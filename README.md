@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>saksham dangol</title>
+<title></title>
 </head>
 <body>
 <h1>hi,</h1>
