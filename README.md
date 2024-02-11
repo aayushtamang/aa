@@ -103,6 +103,14 @@
                 <li>saksham got rejected by many girls as well as boys</li>
             </ul>
         </section>
+        <section id="requirements" class="column">
+            <h2>requirement of candidate</h2>
+            <ul>
+                <li>should be a human whether a boy or a girl..both good</li>
+                <li>should be ugly as hell (for perfect match)</li>
+                <li>should be strong enough to beat sh*t out of saksham</li>
+            </ul>
+        </section>
     </div><h3>saksham is searching for a partner so if any one is interested then please contact here!</h3>
 
     <section id="contact">
