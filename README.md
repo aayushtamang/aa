@@ -82,7 +82,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to our Advanced Computer Website</h1>
+        <h1>Welcome to my Website</h1>
     </header>
     <nav>
         <a href="#about">About</a>
@@ -93,6 +93,7 @@
         <section id="about" class="column">
             <h2>About this website</h2>
             <p>This website is dedicated to saksham.</p>
+            <h2>purpose of this webstie:To find saksham a girlfriend</h2>
         </section>
         <section id="characteristics" class="column">
             <h2>characteristics of saksham</h2>
