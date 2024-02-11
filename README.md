@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -82,7 +82,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to my Website</h1>
+        <h1>Welcome to SHADHI.COM</h1>
     </header>
     <nav>
         <a href="#about">About</a>
@@ -103,7 +103,7 @@
                 <li>saksham got rejected by many girls as well as boys</li>
             </ul>
         </section>
-    </div><h3>saksham is searching for a partner so if any one is interested in saksham then please contact here!</h3>
+    </div><h3>saksham is searching for a partner so if any one is interested then please contact here!</h3>
 
     <section id="contact">
         <h2>Contact here</h2>
